@@ -1,8 +1,8 @@
 let playersData = [];
 
-fetch('JSON/top_50_football_players_2025.json')
+fetch('top_50_football_players_2025.json')
     .then(response => response.json()).then(data1 => {
-        fetch('JSON/club_national_team_images.json')
+        fetch('club_national_team_images.json')
             .then(response => response.json())
             .then(data2 => {
                 playersData = [...data1];
