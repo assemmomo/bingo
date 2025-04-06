@@ -1,0 +1,771 @@
+[
+  {
+    "name": "Lionel Messi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg",
+    "clubs": [
+      "Barcelona",
+      "Paris Saint-Germain",
+      "Inter Miami",
+      "Argentina"
+    ]
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cristiano_Ronaldo_2018.jpg/1200px-Cristiano_Ronaldo_2018.jpg",
+    "clubs": [
+      "Sporting CP",
+      "Manchester United",
+      "Real Madrid",
+      "Juventus",
+      "Al Nassr",
+      "Portugal"
+    ]
+  },
+  {
+    "name": "Kylian Mbappé",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mbappe_before_Real_Madrid_vs_Alaves_3_-_2_Matchday_7_La_Liga_2024_%28cropped%29.jpg",
+    "clubs": [
+      "Monaco",
+      "Paris Saint-Germain",
+      "Real Madrid",
+      "France"
+    ]
+  },
+  {
+    "name": "Erling Haaland",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/ManCity20240722-031_%28cropped%29.jpg",
+    "clubs": [
+      "Red Bull Salzburg",
+      "Borussia Dortmund",
+      "Manchester City",
+      "Norway"
+    ]
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kevin_De_Bruyne_201807092.jpg",
+    "clubs": [
+      "Chelsea",
+      "Werder Bremen",
+      "Wolfsburg",
+      "Manchester City",
+      "Belgium"
+    ]
+  },
+  {
+    "name": "Neymar Jr.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Neymar_Jr._with_Al_Hilal%2C_3_October_2023_-_03_%28cropped%29.jpg",
+    "clubs": [
+      "Santos",
+      "Barcelona",
+      "Paris Saint-Germain",
+      "Al Hilal",
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Mohamed Salah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
+    "clubs": [
+      "Basel",
+      "Chelsea",
+      "Fiorentina",
+      "Roma",
+      "Liverpool",
+      "Egypt"
+    ]
+  },
+  {
+    "name": "Sadio Mané",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sadio_Man%C3%A9_-_Persepolis_F.C._v_Al_Nassr_FC%2C_19_September_2023.jpg",
+    "clubs": [
+      "Metz",
+      "Red Bull Salzburg",
+      "Liverpool",
+      "Bayern Munich",
+      "Al-Nassr",
+      "Senegal"
+    ]
+  },
+  {
+    "name": "Jude Bellingham",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg",
+    "clubs": [
+      "Birmingham City",
+      "Borussia Dortmund",
+      "Real Madrid",
+      "England"
+    ]
+  },
+  {
+    "name": "Vinícius Júnior",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Vinicius_Jr_2018_%28cropped%29.jpg",
+    "clubs": [
+      "Flamengo",
+      "Real Madrid",
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Robert Lewandowski",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_%28cropped%29.jpg",
+    "clubs": [
+      "Borussia Dortmund",
+      "Bayern Munich",
+      "Barcelona",
+      "Poland"
+    ]
+  },
+  {
+    "name": "Harry Kane",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Harry_Kane_on_October_10%2C_2023.jpg",
+    "clubs": [
+      "Tottenham",
+      "Millwall",
+      "Leicester",
+      "Bayern Munich",
+      "England"
+    ]
+  },
+  {
+    "name": "Karim Benzema",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg",
+    "clubs": [
+      "Real Madrid",
+      "Al Ittihad",
+      "France"
+    ]
+  },
+  {
+    "name": "Luka Modrić",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Shahter-Reak_M_2015_%2810%29.jpg",
+    "clubs": [
+      "Dinamo Zagreb",
+      "Tottenham",
+      "Real Madrid",
+      "Croatia"
+    ]
+  },
+  {
+    "name": "Ivan Rakitić",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/2015_UEFA_Super_Cup_62_%28cropped%29.jpg",
+    "clubs": [
+      "Basel",
+      "Schalke 04",
+      "Sevilla",
+      "Barcelona",
+      "Croatia"
+    ]
+  },
+  {
+    "name": "Antoine Griezmann",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Antoine_Griezmann_2018.jpg",
+    "clubs": [
+      "Real Sociedad",
+      "Atletico Madrid",
+      "Barcelona",
+      "France"
+    ]
+  },
+  {
+    "name": "Pedri",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Pedri_-_Paris_SG_-_FC_Barcelone_2021.png",
+    "clubs": [
+      "Las Palmas",
+      "Barcelona",
+      "Spain"
+    ]
+  },
+  {
+    "name": "Gavi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Gavi_%28footballer%29.jpg",
+    "clubs": [
+      "Barcelona",
+      "Spain"
+    ]
+  },
+  {
+    "name": "Joshua Kimmich",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2078_LR10_by_Stepro.jpg",
+    "clubs": [
+      "RB Leipzig",
+      "Bayern Munich",
+      "Germany"
+    ]
+  },
+  {
+    "name": "Bernardo Silva",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bernardo_Silva_%28Isto_%C3%89_Gozar_Com_Quem_Trabalha%2C_2024%29.png",
+    "clubs": [
+      "Benfica",
+      "Monaco",
+      "Manchester City",
+      "Portugal"
+    ]
+  },
+  {
+    "name": "Phil Foden",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Phil_Foden_2022-11-21_1.jpg",
+    "clubs": [
+      "Manchester City",
+      "England"
+    ]
+  },
+  {
+    "name": "João Félix",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jo%C3%A3o_Felix_2019_%28cropped%29.jpg",
+    "clubs": [
+      "Benfica",
+      "Atletico Madrid",
+      "Chelsea",
+      "Barcelona",
+      "Portugal"
+    ]
+  },
+  {
+    "name": "Rafael Leão",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/LeaoFCSalzburg2022%28cropped%29.jpg",
+    "clubs": [
+      "Sporting CP",
+      "Lille",
+      "AC Milan",
+      "Portugal"
+    ]
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Trent_Alexander_Arnold_2016.jpg",
+    "clubs": [
+      "Liverpool",
+      "England"
+    ]
+  },
+  {
+    "name": "Marcus Rashford",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg",
+    "clubs": [
+      "Manchester United",
+      "England"
+    ]
+  },
+  {
+    "name": "Bruno Fernandes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bruno_Fernandes_Portugal%2C_2018.jpg",
+    "clubs": [
+      "Novara",
+      "Udinese",
+      "Sampdoria",
+      "Sporting CP",
+      "Manchester United",
+      "Portugal"
+    ]
+  },
+  {
+    "name": "Declan Rice",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/2022_FIFA_World_Cup_England_6%E2%80%932_Iran_-_%288%29_%28Declan_Rice%29.jpg",
+    "clubs": [
+      "West Ham",
+      "Arsenal",
+      "England"
+    ]
+  },
+  {
+    "name": "Bukayo Saka",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bukayo_Saka.jpg",
+    "clubs": [
+      "Arsenal",
+      "England"
+    ]
+  },
+  {
+    "name": "Martin Ødegaard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Arsenal_v_Everton_%281%29_%28cropped%29.jpg",
+    "clubs": [
+      "Strømsgodset",
+      "Real Madrid",
+      "Heerenveen",
+      "Vitesse",
+      "Real Sociedad",
+      "Arsenal",
+      "Norway"
+    ]
+  },
+  {
+    "name": "Ilkay Gündogan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2071_LR10_by_Stepro_%28cropped%29.jpg",
+    "clubs": [
+      "Nürnberg",
+      "Borussia Dortmund",
+      "Manchester City",
+      "Barcelona",
+      "Germany"
+    ]
+  },
+  {
+    "name": "Toni Kroos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/CSKA-RM18_%287%29_%28cropped%29.jpg",
+    "clubs": [
+      "Bayern Munich",
+      "Bayer Leverkusen",
+      "Real Madrid",
+      "Germany"
+    ]
+  },
+  {
+    "name": "Rodri",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_123_%28cropped%29.jpg",
+    "clubs": [
+      "Villarreal",
+      "Atletico Madrid",
+      "Manchester City",
+      "Spain"
+    ]
+  },
+  {
+    "name": "Frenkie de Jong",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/FC_Red_Bull_Salzburg_gegen_CF_Barcelona_%28Testspiel_4._August_2021%29_34.jpg",
+    "clubs": [
+      "Willem II",
+      "Ajax",
+      "Barcelona",
+      "Netherlands"
+    ]
+  },
+  {
+    "name": "Achraf Hakimi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/HakimiAchraf.jpg",
+    "clubs": [
+      "Real Madrid",
+      "Borussia Dortmund",
+      "Inter Milan",
+      "Paris Saint-Germain",
+      "Morocco"
+    ]
+  },
+  {
+    "name": "Andrew Robertson",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Liver-RM_%2810%29.jpg",
+    "clubs": [
+      "Queen's Park",
+      "Dundee United",
+      "Hull City",
+      "Liverpool",
+      "Scotland"
+    ]
+  },
+  {
+    "name": "Virgil van Dijk",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/20160604_AUT_NED_8876_%28cropped%29.jpg",
+    "clubs": [
+      "Groningen",
+      "Celtic",
+      "Southampton",
+      "Liverpool",
+      "Netherlands"
+    ]
+  },
+  {
+    "name": "Alisson Becker",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Alisson_in_2018.jpg",
+    "clubs": [
+      "Internacional",
+      "Roma",
+      "Liverpool",
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Thibaut Courtois",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Thibaut_Courtois_WC2022.jpg",
+    "clubs": [
+      "Genk",
+      "Chelsea",
+      "Atletico Madrid",
+      "Real Madrid",
+      "Belgium"
+    ]
+  },
+  {
+    "name": "Ederson",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ederson_%28cropped%29.png",
+    "clubs": [
+      "Benfica",
+      "Manchester City",
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Marc-André ter Stegen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
+    "clubs": [
+      "Borussia Mönchengladbach",
+      "Barcelona",
+      "Germany"
+    ]
+  },
+  {
+    "name": "Rúben Dias",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/RubenDiasPortugal.jpg",
+    "clubs": [
+      "Benfica",
+      "Manchester City",
+      "Portugal"
+    ]
+  },
+  {
+    "name": "Jamal Musiala",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jamal_Musiala_2022_%28cropped%29.jpg",
+    "clubs": [
+      "Bayern Munich",
+      "Germany"
+    ]
+  },
+  {
+    "name": "Christopher Nkunku",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Christopher_Nkunku_2021.jpg",
+    "clubs": [
+      "Paris Saint-Germain",
+      "RB Leipzig",
+      "Chelsea",
+      "France"
+    ]
+  },
+  {
+    "name": "Lautaro Martínez",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lautaro_Martinez_Real_Madrid_vs_Inter_Milan_03-11-2020_%28cropped%29.png",
+    "clubs": [
+      "Racing Club",
+      "Inter Milan",
+      "Argentina"
+    ]
+  },
+  {
+    "name": "Federico Valverde",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Federico_Valverde_2021_%28cropped%29.jpg",
+    "clubs": [
+      "Peñarol",
+      "Deportivo La Coruña",
+      "Real Madrid",
+      "Uruguay"
+    ]
+  },
+  {
+    "name": "Alejandro Garnacho",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg",
+    "clubs": [
+      "Manchester United",
+      "Argentina"
+    ]
+  },
+  {
+    "name": "Rasmus Højlund",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rasmus_H%C3%B8jlund_with_a_fan.jpg",
+    "clubs": [
+      "Copenhagen",
+      "Sturm Graz",
+      "Atalanta",
+      "Manchester United",
+      "Denmark"
+    ]
+  },
+  {
+    "name": "Mason Mount",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mountbrightonoct3_2019_%28cropped%29.jpg",
+    "clubs": [
+      "Chelsea",
+      "Derby County",
+      "Manchester United",
+      "England"
+    ]
+  },
+  {
+    "name": "Kai Havertz",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Kai_Havertz_2020.jpg",
+    "clubs": [
+      "Bayer Leverkusen",
+      "Chelsea",
+      "Arsenal",
+      "Germany"
+    ]
+  },
+  {
+    "name": "Theo Hernández",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/FC_Salzburg_vs._AC_Mailand_%28UEFA_Championsleague_2022-09-06%29_Th%C3%A9o_Hernandez.jpg",
+    "clubs": [
+      "Atletico Madrid",
+      "Alavés",
+      "Real Madrid",
+      "Real Sociedad",
+      "AC Milan",
+      "France"
+    ]
+  },
+  {
+    "name": "Jordi Alba",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Russia-Spain_2017_%2811%29.jpg",
+    "clubs": [
+      "Barcelona",
+      "Valencia",
+      "Inter Miami",
+      "Spain"
+    ]
+  },
+  {
+    "name": "Sergio Busquets",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sergio_Busquets_2018_%28cropped%29.jpg",
+    "clubs": [
+      "Barcelona",
+      "Inter Miami",
+      "Spain"
+    ]
+  },
+  {
+    "name": "Zinedine Zidane",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg",
+    "clubs": [
+      "Bordeaux",
+      "Juventus",
+      "Real Madrid",
+      "France"
+    ]
+  },
+  {
+    "name": "Ronaldinho",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ronaldinho_11feb2007.jpg",
+    "clubs": [
+      "Gremio",
+      "Paris Saint-Germain",
+      "Barcelona",
+      "AC Milan",
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Andrés Iniesta",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Andr%C3%A9s_Iniesta_%28cropped%29.jpg",
+    "clubs": [
+      "Barcelona",
+      "Vissel Kobe",
+      "Spain"
+    ]
+  },
+  {
+    "name": "Xavi Hernández",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/2012_2013_-_06_Xavi_Hern%C3%A1ndez.jpg",
+    "clubs": [
+      "Barcelona",
+      "Al Sadd",
+      "Spain"
+    ]
+  },
+  {
+    "name": "Thierry Henry",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Thierry_Henry_%2851649035951%29_%28cropped%29.jpg",
+    "clubs": [
+      "Monaco",
+      "Juventus",
+      "Arsenal",
+      "Barcelona",
+      "New York Red Bulls",
+      "France"
+    ]
+  },
+  {
+    "name": "Paolo Maldini",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/PaoloMaldini.jpg",
+    "clubs": [
+      "AC Milan",
+      "Italy"
+    ]
+  },
+  {
+    "name": "Steven Gerrard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/The_big_4-0.jpg",
+    "clubs": [
+      "Liverpool",
+      "LA Galaxy",
+      "England"
+    ]
+  },
+  {
+    "name": "Frank Lampard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Frank_Lampard8.JPG",
+    "clubs": [
+      "West Ham",
+      "Chelsea",
+      "Manchester City",
+      "New York City FC",
+      "England"
+    ]
+  },
+  {
+    "name": "Didier Drogba",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Drogba_2008.jpg",
+    "clubs": [
+      "Marseille",
+      "Chelsea",
+      "Shanghai Shenhua",
+      "Galatasaray",
+      "Ivory Coast"
+    ]
+  },
+  {
+    "name": "Iker Casillas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/IkerCasillas2010.jpg",
+    "clubs": [
+      "Real Madrid",
+      "Porto",
+      "Spain"
+    ]
+  },
+  {
+    "name": "Sergio Ramos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/FC_RB_Salzburg_versus_Real_Madrid_%28Testspiel%2C_7._August_2019%29_09.jpg",
+    "clubs": [
+      "Sevilla",
+      "Real Madrid",
+      "Paris Saint-Germain",
+      "Sevilla",
+      "Spain"
+    ]
+  },
+  {
+    "name": "David Beckham",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/David_Beckham_Nov_11_2007.jpg",
+    "clubs": [
+      "Manchester United",
+      "Real Madrid",
+      "AC Milan",
+      "Paris Saint-Germain",
+      "England"
+    ]
+  },
+  {
+    "name": "Arjen Robben",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Arjen_Robben_v_Shakhtar_2015_%28cropped%29.jpg",
+    "clubs": [
+      "PSV",
+      "Chelsea",
+      "Real Madrid",
+      "Bayern Munich",
+      "Netherlands"
+    ]
+  },
+  {
+    "name": "Andrea Pirlo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Andrea_Pirlo_%28cropped%29.jpg",
+    "clubs": [
+      "Inter Milan",
+      "AC Milan",
+      "Juventus",
+      "Italy"
+    ]
+  },
+  {
+    "name": "Luis Suárez",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Luis_Su%C3%A1rez_2018.jpg",
+    "clubs": [
+      "Ajax",
+      "Liverpool",
+      "Barcelona",
+      "Atletico Madrid",
+      "Inter Miami",
+      "Uruguay"
+    ]
+  },
+  {
+    "name": "Fabio Cannavaro",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Cannavaro-italy-1998.jpg",
+    "clubs": [
+      "Napoli",
+      "Parma",
+      "Inter Milan",
+      "Juventus",
+      "Real Madrid",
+      "Al-Ahli",
+      "Italy"
+    ]
+  },
+  {
+    "name": "Javier Zanetti",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Javier_Adelmar_Zanetti.jpg",
+    "clubs": [
+      "Talleres",
+      "Banfield",
+      "Napoli",
+      "Inter Milan",
+      "Argentina"
+    ]
+  },
+  {
+    "name": "Xabi Alonso",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Xabi_Alonso_%28Real_Valladolid-Real_Madrid%29.jpg",
+    "clubs": [
+      "Real Sociedad",
+      "Liverpool",
+      "Real Madrid",
+      "Bayern Munich",
+      "Spain"
+    ]
+  },
+  {
+    "name": "Zlatan Ibrahimović",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Zlataninter.jpg",
+    "clubs": [
+      "Ajax",
+      "Juventus",
+      "Inter Milan",
+      "Barcelona",
+      "AC Milan",
+      "Paris Saint-Germain",
+      "Manchester United",
+      "Sweden"
+    ]
+  },
+  {
+    "name": "Dennis Bergkamp",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Dennis_Bergkamp.jpg",
+    "clubs": [
+      "Ajax",
+      "Inter Milan",
+      "Arsenal",
+      "Netherlands"
+    ]
+  },
+  {
+    "name": "Clarence Seedorf",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Clarence_Seedorf_2021.jpg",
+    "clubs": [
+      "Ajax",
+      "Sampdoria",
+      "Real Madrid",
+      "Inter Milan",
+      "AC Milan",
+      "Botafogo",
+      "Netherlands"
+    ]
+  },
+  {
+    "name": "Édison Cavani",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/PALMEIRAS_X_BOCA_JUNIORS_-_COPA_LIBERTADORES_2023_%2853286889335%29.jpg",
+    "clubs": [
+      "Danubio",
+      "Palermo",
+      "Napoli",
+      "PSG",
+      "Manchester United",
+      "Uruguay"
+    ]
+  },
+  {
+    "name": "Diego Forlán",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Diego_Forl%C3%A1n_%28Atl%C3%A9tico_Madrid%29.jpg",
+    "clubs": [
+      "Manchester United",
+      "Villarreal",
+      "Atlético Madrid",
+      "Inter Milan",
+      "Uruguay"
+    ]
+  }
+]

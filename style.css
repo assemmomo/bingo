@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+.gameName{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    margin: 20px 0;
+    left: 100px;
+    top: 50px;
+}
+.rollBtn{
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    cursor: pointer;
+    border-radius: 50%;
+    user-select: none;
+}
+.rollBtn:hover{
+    background-color: #420808;
+}
+.playerImg{
+    width: 150px;
+    height: 200px;
+    border: 2px solid white;
+}
+.cardsHolder div{
+    width: 150px;
+    height: 150px;
+    background-color: #333;
+    cursor: pointer;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.cardsHolder div img{
+    width: 80px;
+    max-height: 130px;
+    transition: 0.3s;
+}
+.cardsHolder div:hover{
+    background-color: #444;
+    & img{
+        transform: scale(1.1);
+    }
+}
+.playerName{
+    position: absolute;
+    top: -50px;
+    width: 300px;
+}
+.playerImgg{
+    width: 100%;
+    height: 100%;
+}
+.correctCard{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30px !important;
+}
+
+@media (max-width:1167px){
+    .cardsHolder div{
+        width: 100px;
+        height: 100px;
+    }
+    .cardsHolder div img{
+        width: 50px;
+        max-height: 80px;
+    }
+}
+@media (max-width:610px){
+    .cardsHolder{
+        width: 500px !important;
+    }
+    .playerImg{
+        width: 150px !important;
+    }
+    .playerDiv{
+        width: 100% !important;
+    }
+}
+@media(max-width:510px){
+    .cardsHolder{
+        width: 400px !important;
+    }
+    .cardsHolder div{
+        width: 80px;
+        height: 80px;
+    }
+}
