@@ -37,12 +37,15 @@
     {"England": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png"},
     {"France": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"},
     {"Germany": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"},
-    {"Morocco": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1200px-Flag_of_Morocco.svg.png"},
     {"Netherlands": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"},
     {"Norway": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png"},
     {"Portugal": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png"},
     {"Spain": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"},
     {"Uruguay": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"},
-    {"Italy":"https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"}
+    {"Italy":"https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"},
+    {"ucl_titles":"https://upload.wikimedia.org/wikipedia/ar/6/6c/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AF%D9%88%D8%B1%D9%8A_%D8%A3%D8%A8%D8%B7%D8%A7%D9%84_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7_2021.svg"},
+    {"World_Cup":"https://upload.wikimedia.org/wikipedia/commons/7/71/FIFA_World_Cup_Trophy_cropped.jpg"},
+    {"ballon_dor":"https://upload.wikimedia.org/wikipedia/commons/0/04/2016_Ballon_dOr_CR7Museum.jpg"},
+    {"Africa":"https://upload.wikimedia.org/wikipedia/commons/8/86/Africa_%28orthographic_projection%29.svg"}
     
 ]
