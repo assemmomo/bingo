@@ -6,7 +6,10 @@
       "Barcelona",
       "Paris Saint-Germain",
       "Inter Miami",
-      "Argentina"
+      "Argentina",
+      "ballon_dor",
+      "ucl_titles",
+      "World_Cup"
     ]
   },
   {
@@ -18,7 +21,9 @@
       "Real Madrid",
       "Juventus",
       "Al Nassr",
-      "Portugal"
+      "Portugal",
+      "ballon_dor",
+      "ucl_titles"
     ]
   },
   {
@@ -28,7 +33,8 @@
       "Monaco",
       "Paris Saint-Germain",
       "Real Madrid",
-      "France"
+      "France",
+      "World_Cup"
     ]
   },
   {
@@ -38,7 +44,8 @@
       "Red Bull Salzburg",
       "Borussia Dortmund",
       "Manchester City",
-      "Norway"
+      "Norway",
+      "ucl_titles"
     ]
   },
   {
@@ -72,7 +79,9 @@
       "Fiorentina",
       "Roma",
       "Liverpool",
-      "Egypt"
+      "Egypt",
+      "ucl_titles",
+      "Africa"
     ]
   },
   {
@@ -84,7 +93,8 @@
       "Liverpool",
       "Bayern Munich",
       "Al Nassr",
-      "Senegal"
+      "Senegal",
+      "Africa"
     ]
   },
   {
@@ -103,7 +113,8 @@
     "clubs": [
       "Flamengo",
       "Real Madrid",
-      "Brazil"
+      "Brazil",
+      "ucl_titles"
     ]
   },
   {
@@ -113,7 +124,8 @@
       "Borussia Dortmund",
       "Bayern Munich",
       "Barcelona",
-      "Poland"
+      "Poland",
+      "ucl_titles"
     ]
   },
   {
@@ -133,7 +145,8 @@
     "clubs": [
       "Real Madrid",
       "Al Ittihad",
-      "France"
+      "France",
+      "ucl_titles"
     ]
   },
   {
@@ -143,7 +156,8 @@
       "Dinamo Zagreb",
       "Tottenham",
       "Real Madrid",
-      "Croatia"
+      "Croatia",
+      "ucl_titles"
     ]
   },
   {
@@ -164,7 +178,8 @@
       "Real Sociedad",
       "Atletico Madrid",
       "Barcelona",
-      "France"
+      "France",
+      "World_Cup"
     ]
   },
   {
@@ -190,7 +205,8 @@
     "clubs": [
       "RB Leipzig",
       "Bayern Munich",
-      "Germany"
+      "Germany",
+      "ucl_titles"
     ]
   },
   {
@@ -200,7 +216,8 @@
       "Benfica",
       "Monaco",
       "Manchester City",
-      "Portugal"
+      "Portugal",
+      "ucl_titles"
     ]
   },
   {
@@ -208,7 +225,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Phil_Foden_2022-11-21_1.jpg",
     "clubs": [
       "Manchester City",
-      "England"
+      "England",
+      "ucl_titles"
     ]
   },
   {
@@ -308,7 +326,8 @@
       "Bayern Munich",
       "Bayer Leverkusen",
       "Real Madrid",
-      "Germany"
+      "Germany",
+      "ucl_titles"
     ]
   },
   {
@@ -318,7 +337,9 @@
       "Villarreal",
       "Atletico Madrid",
       "Manchester City",
-      "Spain"
+      "Spain",
+      "ucl_titles",
+      "ballon_dor"
     ]
   },
   {
@@ -339,7 +360,8 @@
       "Borussia Dortmund",
       "Inter Milan",
       "Paris Saint-Germain",
-      "Morocco"
+      "Morocco",
+      "Africa"
     ]
   },
   {
@@ -361,7 +383,8 @@
       "Celtic",
       "Southampton",
       "Liverpool",
-      "Netherlands"
+      "Netherlands",
+      "ucl_titles"
     ]
   },
   {
@@ -371,7 +394,8 @@
       "Internacional",
       "Roma",
       "Liverpool",
-      "Brazil"
+      "Brazil",
+      "ucl_titles"
     ]
   },
   {
@@ -382,7 +406,8 @@
       "Chelsea",
       "Atletico Madrid",
       "Real Madrid",
-      "Belgium"
+      "Belgium",
+      "ucl_titles"
     ]
   },
   {
@@ -391,7 +416,8 @@
     "clubs": [
       "Benfica",
       "Manchester City",
-      "Brazil"
+      "Brazil",
+      "ucl_titles"
     ]
   },
   {
@@ -400,7 +426,8 @@
     "clubs": [
       "Borussia Mönchengladbach",
       "Barcelona",
-      "Germany"
+      "Germany",
+      "ucl_titles"
     ]
   },
   {
@@ -409,7 +436,8 @@
     "clubs": [
       "Benfica",
       "Manchester City",
-      "Portugal"
+      "Portugal",
+      "ucl_titles"
     ]
   },
   {
@@ -417,7 +445,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jamal_Musiala_2022_%28cropped%29.jpg",
     "clubs": [
       "Bayern Munich",
-      "Germany"
+      "Germany",
+      "ucl_titles"
     ]
   },
   {
@@ -436,7 +465,8 @@
     "clubs": [
       "Racing Club",
       "Inter Milan",
-      "Argentina"
+      "Argentina",
+      "World_Cup"
     ]
   },
   {
@@ -446,7 +476,8 @@
       "Peñarol",
       "Deportivo La Coruña",
       "Real Madrid",
-      "Uruguay"
+      "Uruguay",
+      "ucl_titles"
     ]
   },
   {
@@ -454,7 +485,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg",
     "clubs": [
       "Manchester United",
-      "Argentina"
+      "Argentina",
+      "World_Cup"
     ]
   },
   {
@@ -497,7 +529,8 @@
       "Real Madrid",
       "Real Sociedad",
       "AC Milan",
-      "France"
+      "France",
+      "World_Cup"
     ]
   },
   {
@@ -507,7 +540,8 @@
       "Barcelona",
       "Valencia",
       "Inter Miami",
-      "Spain"
+      "Spain",
+      "ucl_titles"
     ]
   },
   {
@@ -516,7 +550,8 @@
     "clubs": [
       "Barcelona",
       "Inter Miami",
-      "Spain"
+      "Spain",
+      "ucl_titles"
     ]
   },
   {
@@ -526,7 +561,10 @@
       "Bordeaux",
       "Juventus",
       "Real Madrid",
-      "France"
+      "France",
+      "ucl_titles",
+      "World_Cup",
+      "ballon_dor"
     ]
   },
   {
@@ -537,7 +575,8 @@
       "Paris Saint-Germain",
       "Barcelona",
       "AC Milan",
-      "Brazil"
+      "Brazil",
+      "ucl_titles"
     ]
   },
   {
@@ -546,7 +585,9 @@
     "clubs": [
       "Barcelona",
       "Vissel Kobe",
-      "Spain"
+      "Spain",
+      "ucl_titles",
+      "World_Cup"
     ]
   },
   {
@@ -555,7 +596,9 @@
     "clubs": [
       "Barcelona",
       "Al Sadd",
-      "Spain"
+      "Spain",
+      "ucl_titles",
+      "World_Cup"
     ]
   },
   {
@@ -567,7 +610,9 @@
       "Arsenal",
       "Barcelona",
       "New York Red Bulls",
-      "France"
+      "France",
+      "ucl_titles",
+      "World_Cup"
     ]
   },
   {
@@ -575,7 +620,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/PaoloMaldini.jpg",
     "clubs": [
       "AC Milan",
-      "Italy"
+      "Italy",
+      "ucl_titles"
     ]
   },
   {
@@ -584,7 +630,8 @@
     "clubs": [
       "Liverpool",
       "LA Galaxy",
-      "England"
+      "England",
+      "ucl_titles"
     ]
   },
   {
@@ -595,7 +642,8 @@
       "Chelsea",
       "Manchester City",
       "New York City FC",
-      "England"
+      "England",
+      "ucl_titles"
     ]
   },
   {
@@ -606,7 +654,9 @@
       "Chelsea",
       "Shanghai Shenhua",
       "Galatasaray",
-      "Ivory Coast"
+      "Ivory Coast",
+      "ucl_titles",
+      "Africa"
     ]
   },
   {
@@ -615,7 +665,9 @@
     "clubs": [
       "Real Madrid",
       "Porto",
-      "Spain"
+      "Spain",
+      "ucl_titles",
+      "World_Cup"
     ]
   },
   {
@@ -626,7 +678,8 @@
       "Real Madrid",
       "Paris Saint-Germain",
       "Sevilla",
-      "Spain"
+      "Spain",
+      "ucl_titles"
     ]
   },
   {
@@ -637,7 +690,8 @@
       "Real Madrid",
       "AC Milan",
       "Paris Saint-Germain",
-      "England"
+      "England",
+      "ucl_titles"
     ]
   },
   {
@@ -648,7 +702,8 @@
       "Chelsea",
       "Real Madrid",
       "Bayern Munich",
-      "Netherlands"
+      "Netherlands",
+      "ucl_titles"
     ]
   },
   {
@@ -658,7 +713,9 @@
       "Inter Milan",
       "AC Milan",
       "Juventus",
-      "Italy"
+      "Italy",
+      "ucl_titles",
+      "World_Cup"
     ]
   },
   {
@@ -670,7 +727,8 @@
       "Barcelona",
       "Atletico Madrid",
       "Inter Miami",
-      "Uruguay"
+      "Uruguay",
+      "ucl_titles"
     ]
   },
   {
@@ -683,7 +741,10 @@
       "Juventus",
       "Real Madrid",
       "Al-Ahli",
-      "Italy"
+      "Italy",
+      "ucl_titles",
+      "World_Cup",
+      "ballon_dor"
     ]
   },
   {
@@ -694,7 +755,8 @@
       "Banfield",
       "Napoli",
       "Inter Milan",
-      "Argentina"
+      "Argentina",
+      "ucl_titles"
     ]
   },
   {
@@ -705,7 +767,9 @@
       "Liverpool",
       "Real Madrid",
       "Bayern Munich",
-      "Spain"
+      "Spain",
+      "ucl_titles",
+      "World_Cup"
     ]
   },
   {
@@ -742,7 +806,8 @@
       "Inter Milan",
       "AC Milan",
       "Botafogo",
-      "Netherlands"
+      "Netherlands",
+      "ucl_titles"
     ]
   },
   {
@@ -766,6 +831,15 @@
       "Atlético Madrid",
       "Inter Milan",
       "Uruguay"
+    ]
+  },
+  {
+    "name": "Francesco Totti",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/KL-2018_%284%29.jpg",
+    "clubs": [
+      "Roma",
+      "Italy",
+      "World_Cup"
     ]
   }
 ]
