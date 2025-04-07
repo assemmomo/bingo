@@ -1,8 +1,8 @@
 let playersData = [];
 
-fetch('top_50_football_players_2025.json')
+fetch('json/top_50_football_players_2025.json')
     .then(response => response.json()).then(data1 => {
-        fetch('club_national_team_images.json')
+        fetch('json/club_national_team_images.json')
             .then(response => response.json())
             .then(data2 => {
                 playersData = [...data1];
@@ -55,6 +55,7 @@ fetch('top_50_football_players_2025.json')
                     mainPlayer = getRandomPlayer();
                 });
 
+                let correctCards = 0;
                 cards.forEach(card => {
                     card.parentElement.addEventListener('click', () => {
                         const clubName = card.parentElement.getAttribute('club-name');
@@ -69,11 +70,19 @@ fetch('top_50_football_players_2025.json')
                                 card.parentElement.classList.add('correct');
                                 mainPlayer = getRandomPlayer();
                                 card.classList.add('correctCard');
-                                console.log('Correct! Player removed from pool.');
+                                correctCards++;
+                                if (correctCards === cards.length) {
+                                    setTimeout(() => {
+                                        alert('Congratulations! You guessed all the players!');
+                                        window.location.reload();
+                                    }, 1000);
+                                }
+                                
                             }
                         } else {
                             console.log('Incorrect!');
                         }
+                        
                     });
                 });
 
