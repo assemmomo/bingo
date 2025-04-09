@@ -98,6 +98,17 @@
     ]
   },
   {
+    "name": "Naby Keïta",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/RB_Leipzig_vs._FC_Liefering_%28Testspiel_9._August_2016%29_24.jpg",
+    "clubs": [
+      "Red Bull Salzburg",
+      "RB Leipzig",
+      "Liverpool",
+      "Werder Bremen",
+      "Guinea"
+    ]
+  },
+  {
     "name": "Jude Bellingham",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg",
     "clubs": [
@@ -146,7 +157,8 @@
       "Real Madrid",
       "Al Ittihad",
       "France",
-      "ucl_titles"
+      "ucl_titles",
+      "ballon_dor"
     ]
   },
   {
@@ -183,18 +195,34 @@
     ]
   },
   {
+    "name": "Ousmane Dembélé",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ousmane_Demb%C3%A9l%C3%A9_2018_%28cropped%29.jpg",
+    "clubs": [
+      "Rennes",
+      "Borussia Dortmund",
+      "Barcelona",
+      "Paris Saint-Germain",
+      "France",
+      "World_Cup"
+    ]
+  },
+  {
+    "name": "Antonio Rüdiger",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Antonio_R%C3%BCdiger_Chelsea.jpg",
+    "clubs": [
+      "VfB Stuttgart",
+      "Roma",
+      "Chelsea",
+      "Real Madrid",
+      "Germany",
+      "ucl_titles"
+    ]
+  },
+  {
     "name": "Pedri",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Pedri_-_Paris_SG_-_FC_Barcelone_2021.png",
     "clubs": [
       "Las Palmas",
-      "Barcelona",
-      "Spain"
-    ]
-  },
-  {
-    "name": "Gavi",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Gavi_%28footballer%29.jpg",
-    "clubs": [
       "Barcelona",
       "Spain"
     ]
@@ -251,22 +279,6 @@
     ]
   },
   {
-    "name": "Trent Alexander-Arnold",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Trent_Alexander_Arnold_2016.jpg",
-    "clubs": [
-      "Liverpool",
-      "England"
-    ]
-  },
-  {
-    "name": "Marcus Rashford",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg",
-    "clubs": [
-      "Manchester United",
-      "England"
-    ]
-  },
-  {
     "name": "Bruno Fernandes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bruno_Fernandes_Portugal%2C_2018.jpg",
     "clubs": [
@@ -283,14 +295,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/2022_FIFA_World_Cup_England_6%E2%80%932_Iran_-_%288%29_%28Declan_Rice%29.jpg",
     "clubs": [
       "West Ham",
-      "Arsenal",
-      "England"
-    ]
-  },
-  {
-    "name": "Bukayo Saka",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bukayo_Saka.jpg",
-    "clubs": [
       "Arsenal",
       "England"
     ]
@@ -362,17 +366,6 @@
       "Paris Saint-Germain",
       "Morocco",
       "Africa"
-    ]
-  },
-  {
-    "name": "Andrew Robertson",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Liver-RM_%2810%29.jpg",
-    "clubs": [
-      "Queen's Park",
-      "Dundee United",
-      "Hull City",
-      "Liverpool",
-      "Scotland"
     ]
   },
   {
@@ -564,7 +557,8 @@
       "France",
       "ucl_titles",
       "World_Cup",
-      "ballon_dor"
+      "ballon_dor",
+      "coached"
     ]
   },
   {
@@ -576,7 +570,9 @@
       "Barcelona",
       "AC Milan",
       "Brazil",
-      "ucl_titles"
+      "ucl_titles",
+      "ballon_dor",
+      "World_Cup"
     ]
   },
   {
@@ -598,7 +594,8 @@
       "Al Sadd",
       "Spain",
       "ucl_titles",
-      "World_Cup"
+      "World_Cup",
+      "coached"
     ]
   },
   {
@@ -612,7 +609,8 @@
       "New York Red Bulls",
       "France",
       "ucl_titles",
-      "World_Cup"
+      "World_Cup",
+      "coached"
     ]
   },
   {
@@ -631,7 +629,8 @@
       "Liverpool",
       "LA Galaxy",
       "England",
-      "ucl_titles"
+      "ucl_titles",
+      "coached"
     ]
   },
   {
@@ -643,7 +642,8 @@
       "Manchester City",
       "New York City FC",
       "England",
-      "ucl_titles"
+      "ucl_titles",
+      "coached"
     ]
   },
   {
@@ -715,7 +715,8 @@
       "Juventus",
       "Italy",
       "ucl_titles",
-      "World_Cup"
+      "World_Cup",
+      "coached"
     ]
   },
   {
@@ -769,7 +770,8 @@
       "Bayern Munich",
       "Spain",
       "ucl_titles",
-      "World_Cup"
+      "World_Cup",
+      "coached"
     ]
   },
   {
@@ -807,7 +809,8 @@
       "AC Milan",
       "Botafogo",
       "Netherlands",
-      "ucl_titles"
+      "ucl_titles",
+      "coached"
     ]
   },
   {
@@ -830,7 +833,8 @@
       "Villarreal",
       "Atlético Madrid",
       "Inter Milan",
-      "Uruguay"
+      "Uruguay",
+      "coached"
     ]
   },
   {
@@ -840,6 +844,72 @@
       "Roma",
       "Italy",
       "World_Cup"
+    ]
+  },
+  {
+    "name": "Diego Maradona",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_celebrando_copa_%28cropped%29.jpg",
+    "clubs": [
+      "Argentinos Juniors",
+      "Boca Juniors",
+      "Barcelona",
+      "Napoli",
+      "Sevilla",
+      "Argentina",
+      "World_Cup",
+      "coached"
+    ]
+  },
+  {
+    "name": "Ronaldo Nazário",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ronaldo_2002_cropped.jpg",
+    "clubs": [
+      "Cruzeiro",
+      "PSV",
+      "Barcelona",
+      "Inter Milan",
+      "Real Madrid",
+      "AC Milan",
+      "Brazil",
+      "World_Cup",
+      "ballon_dor"
+    ]
+  },
+  {
+    "name": "Pelé",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg",
+    "clubs": [
+      "Santos",
+      "New York Cosmos",
+      "Brazil",
+      "World_Cup"
+    ]
+  },
+  {
+    "name": "Rio Ferdinand",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rio_Ferdinand-en.JPG",
+    "clubs": [
+      "West Ham United",
+      "Leeds United",
+      "Manchester United",
+      "England",
+      "ucl_titles"
+    ]
+  },
+  {
+    "name": "Ruud Gullit",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ruud_Gullit_1988.jpg",
+    "clubs": [
+      "HFC Haarlem",
+      "Feyenoord",
+      "PSV",
+      "AC Milan",
+      "Sampdoria",
+      "Chelsea",
+      "Netherlands",
+      "ucl_titles",
+      "ballon_dor",
+      "coached"
     ]
   }
 ]
