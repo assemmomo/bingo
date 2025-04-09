@@ -5,7 +5,7 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #f0f0f0;
+    background-color: #02192c;
     color: #333;
 }
 .gameName{
@@ -19,13 +19,19 @@ body{
 .rollBtn{
     width: 80px;
     height: 80px;
-    background-color: red;
     cursor: pointer;
     border-radius: 50%;
     user-select: none;
 }
 .rollBtn:hover{
-    background-color: #420808;
+    & i{
+        transform: rotate(360deg);
+    }
+}
+.rollBtn i{
+    font-size: 50px;
+    color: rgb(43, 175, 228);
+    transition: 0.3s;
 }
 .playerImg{
     width: 150px;
@@ -35,7 +41,7 @@ body{
 .cardsHolder div{
     width: 150px;
     height: 150px;
-    background-color: #333;
+    background-color: #24383a;
     cursor: pointer;
     border: 2px solid white;
     display: flex;
@@ -49,7 +55,7 @@ body{
     transition: 0.3s;
 }
 .cardsHolder div:hover{
-    background-color: #444;
+    background-color: #417f8a;
     & img{
         transform: scale(1.1);
     }
