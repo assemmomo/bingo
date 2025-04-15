@@ -56,6 +56,21 @@ fetch('top_50_football_players_2025.json')
                 });
 
                 let correctCards = 0;
+                let errorCount = 15;
+                let errorInt = setInterval(() => {
+                    if (errorCount > 0) {
+                        document.querySelector('.errorDiv h3 span').innerHTML = errorCount;
+                    } else {
+                        document.querySelector('.endGame h1').innerHTML = "Game Over!";
+                        document.querySelector('.endGame h2').innerHTML = "You have made too many errors.";
+                        document.querySelector('.endGame').style.top="50%";
+                        rematchBtn.addEventListener("click", () => {
+                            window.location.reload();
+                        });
+                        clearInterval(errorInt);
+                    }
+                }, 100);
+                let rematchBtn = document.querySelector('.rematchBtn');
                 cards.forEach(card => {
                     card.parentElement.addEventListener('click', () => {
                         const clubName = card.parentElement.getAttribute('club-name');
@@ -70,18 +85,27 @@ fetch('top_50_football_players_2025.json')
                                 card.parentElement.classList.add('correct');
                                 mainPlayer = getRandomPlayer();
                                 card.classList.add('correctCard');
+                                card.parentElement.style.pointerEvents = 'none';
                                 correctCards++;
                                 if (correctCards === cards.length) {
+                                    document.querySelector('.endGame h1').innerHTML = "Congratulations !";
+                                    document.querySelector('.endGame h2').innerHTML = `You have completed the game with <span class="text-danger">${15-errorCount}</span> mistakes`;
                                     setTimeout(() => {
-                                        alert('Congratulations! You guessed all the players!');
-                                        window.location.reload();
+                                        document.querySelector('.endGame').style.top="50%";
                                     }, 1000);
                                 }
-                                
+                                rematchBtn.addEventListener("click", () => {
+                                window.location.reload();
+                                });
                             }
                         } else {
-                            console.log('Incorrect!');
+                            card.parentElement.style.borderColor = 'red';
+                            errorCount--;
+                            setTimeout(() => {
+                                card.parentElement.style.borderColor = 'white';
+                            }, 200);
                         }
+                        
                         
                     });
                 });
