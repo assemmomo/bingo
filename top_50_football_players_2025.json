@@ -249,15 +249,6 @@
     ]
   },
   {
-    "name": "Phil Foden",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Phil_Foden_2022-11-21_1.jpg",
-    "clubs": [
-      "Manchester City",
-      "England",
-      "ucl_titles"
-    ]
-  },
-  {
     "name": "João Félix",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jo%C3%A3o_Felix_2019_%28cropped%29.jpg",
     "clubs": [
@@ -480,17 +471,6 @@
       "Manchester United",
       "Argentina",
       "World_Cup"
-    ]
-  },
-  {
-    "name": "Rasmus Højlund",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rasmus_H%C3%B8jlund_with_a_fan.jpg",
-    "clubs": [
-      "Copenhagen",
-      "Sturm Graz",
-      "Atalanta",
-      "Manchester United",
-      "Denmark"
     ]
   },
   {
@@ -831,7 +811,7 @@
     "clubs": [
       "Manchester United",
       "Villarreal",
-      "Atlético Madrid",
+      "Atletico Madrid",
       "Inter Milan",
       "Uruguay",
       "coached"
@@ -889,7 +869,7 @@
     "name": "Rio Ferdinand",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rio_Ferdinand-en.JPG",
     "clubs": [
-      "West Ham United",
+      "West Ham",
       "Leeds United",
       "Manchester United",
       "England",
