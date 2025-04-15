@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    user-select: none;
 }
 body{
     font-family: 'Poppins', sans-serif;
@@ -75,7 +76,31 @@ body{
     right: 0;
     width: 30px !important;
 }
-
+.errorDiv{
+    top: 20px;
+    right: 20px;
+    & span{
+        color: red;
+    }
+}
+.endGame{
+    top: -50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 60%;
+    height: 70%;
+    background-color: #417f8a;
+    z-index: 10;
+    border-radius: 30px;
+    transition: 0.3s;
+}
+.rematchBtn{
+    width: 160px;
+    height: 60px;
+}
+.againBtn:hover{
+    background-color: #24383a !important;
+}
 @media (max-width:1167px){
     .cardsHolder div{
         width: 100px;
