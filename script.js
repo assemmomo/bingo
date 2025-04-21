@@ -80,7 +80,7 @@ fetch('top_50_football_players_2025.json')
                                 let newImg = document.createElement('img');
                                 newImg.src = playerImgElement.src;
                                 newImg.classList.add('newPlayerImg');
-                                newImg.style.cssText="width:90px;height:120px;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.7;";
+                                newImg.style.cssText="width:90px;height:120px;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);opacity:1;";
                                 card.parentElement.appendChild(newImg);
                                 card.parentElement.classList.add('correct');
                                 mainPlayer = getRandomPlayer();
@@ -92,6 +92,9 @@ fetch('top_50_football_players_2025.json')
                                     document.querySelector('.endGame h2').innerHTML = `You have completed the game with <span class="text-danger">${15-errorCount}</span> mistakes`;
                                     setTimeout(() => {
                                         document.querySelector('.endGame').style.top="50%";
+                                        document.body.querySelectorAll('div').forEach((div) => {
+                                            div.style.filter = "blur(5px) !important";
+                                        });
                                     }, 1000);
                                 }
                                 rematchBtn.addEventListener("click", () => {
@@ -109,6 +112,12 @@ fetch('top_50_football_players_2025.json')
                         
                     });
                 });
+                document.querySelector('.infoBtn').onclick = () => {
+                    document.querySelector('.infoPage').style.top="0%";
+                }
+                document.querySelector('.closeInfo').onclick = () => {
+                    document.querySelector('.infoPage').style.top="-100%";
+                }
 
             })
             .catch(error => console.error('Error fetching player data:', error));
