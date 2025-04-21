@@ -51,7 +51,10 @@ fetch('top_50_football_players_2025.json')
                     return player;
                 }
 
+                let rotateCount = 1440;
                 document.querySelector('.rollBtn').addEventListener('click', () => {
+                    rotateCount+=1440;
+                    document.querySelector('.playerImgg').style.transform = `rotate(${rotateCount}deg)`;
                     mainPlayer = getRandomPlayer();
                 });
 
@@ -77,6 +80,8 @@ fetch('top_50_football_players_2025.json')
                         if (mainPlayer.clubs.includes(clubName)) {
                             if (!card.parentElement.classList.contains('correct')) {
                                 const playerImgElement = document.querySelector('.playerImgg');
+                                rotateCount+=1440;
+                                document.querySelector('.playerImgg').style.transform = `rotate(${rotateCount}deg)`;
                                 let newImg = document.createElement('img');
                                 newImg.src = playerImgElement.src;
                                 newImg.classList.add('newPlayerImg');
@@ -104,9 +109,13 @@ fetch('top_50_football_players_2025.json')
                         } else {
                             card.parentElement.style.borderColor = 'red';
                             errorCount--;
+                            document.querySelector('.errorDiv span').style.animation = "errorScale 0.5s ease-in-out forwards";
                             setTimeout(() => {
                                 card.parentElement.style.borderColor = 'white';
                             }, 200);
+                            setTimeout(() => {
+                                document.querySelector('.errorDiv span').style.animation = "none";
+                            }, 600);
                         }
                         
                         
