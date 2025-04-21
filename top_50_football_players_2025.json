@@ -21,6 +21,7 @@
       "Real Madrid",
       "Juventus",
       "Al Nassr",
+      "RSL",
       "Portugal",
       "ballon_dor",
       "ucl_titles"
@@ -56,7 +57,8 @@
       "Werder Bremen",
       "Wolfsburg",
       "Manchester City",
-      "Belgium"
+      "Belgium",
+      "ucl_titles"
     ]
   },
   {
@@ -66,6 +68,7 @@
       "Santos",
       "Barcelona",
       "Paris Saint-Germain",
+      "RSL",
       "Al Hilal",
       "Brazil"
     ]
@@ -92,6 +95,7 @@
       "Red Bull Salzburg",
       "Liverpool",
       "Bayern Munich",
+      "RSL",
       "Al Nassr",
       "Senegal",
       "Africa"
@@ -105,7 +109,8 @@
       "RB Leipzig",
       "Liverpool",
       "Werder Bremen",
-      "Guinea"
+      "Guinea",
+      "Africa"
     ]
   },
   {
@@ -156,6 +161,7 @@
     "clubs": [
       "Real Madrid",
       "Al Ittihad",
+      "RSL",
       "France",
       "ucl_titles",
       "ballon_dor"
@@ -180,7 +186,8 @@
       "Schalke 04",
       "Sevilla",
       "Barcelona",
-      "Croatia"
+      "Croatia",
+      "ucl_titles"
     ]
   },
   {
@@ -216,15 +223,6 @@
       "Real Madrid",
       "Germany",
       "ucl_titles"
-    ]
-  },
-  {
-    "name": "Pedri",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Pedri_-_Paris_SG_-_FC_Barcelone_2021.png",
-    "clubs": [
-      "Las Palmas",
-      "Barcelona",
-      "Spain"
     ]
   },
   {
@@ -348,6 +346,20 @@
     ]
   },
   {
+    "name":"Ángel Di María",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/NIG-ARG_%285%29.jpg",
+    "clubs": [
+      "Rosario Central",
+      "Benfica",
+      "Real Madrid",
+      "Manchester United",
+      "Paris Saint-Germain",
+      "Juventus",
+      "Argentina",
+      "World_Cup"
+    ]
+  },
+  {
     "name": "Achraf Hakimi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/HakimiAchraf.jpg",
     "clubs": [
@@ -405,31 +417,12 @@
     ]
   },
   {
-    "name": "Marc-André ter Stegen",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
-    "clubs": [
-      "Borussia Mönchengladbach",
-      "Barcelona",
-      "Germany",
-      "ucl_titles"
-    ]
-  },
-  {
     "name": "Rúben Dias",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/RubenDiasPortugal.jpg",
     "clubs": [
       "Benfica",
       "Manchester City",
       "Portugal",
-      "ucl_titles"
-    ]
-  },
-  {
-    "name": "Jamal Musiala",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jamal_Musiala_2022_%28cropped%29.jpg",
-    "clubs": [
-      "Bayern Munich",
-      "Germany",
       "ucl_titles"
     ]
   },
@@ -441,16 +434,6 @@
       "RB Leipzig",
       "Chelsea",
       "France"
-    ]
-  },
-  {
-    "name": "Lautaro Martínez",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lautaro_Martinez_Real_Madrid_vs_Inter_Milan_03-11-2020_%28cropped%29.png",
-    "clubs": [
-      "Racing Club",
-      "Inter Milan",
-      "Argentina",
-      "World_Cup"
     ]
   },
   {
@@ -471,16 +454,6 @@
       "Manchester United",
       "Argentina",
       "World_Cup"
-    ]
-  },
-  {
-    "name": "Mason Mount",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mountbrightonoct3_2019_%28cropped%29.jpg",
-    "clubs": [
-      "Chelsea",
-      "Derby County",
-      "Manchester United",
-      "England"
     ]
   },
   {
