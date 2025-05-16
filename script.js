@@ -59,7 +59,7 @@ fetch('top_50_football_players_2025.json')
                 });
 
                 let correctCards = 0;
-                let errorCount = 15;
+                let errorCount = 10;
                 let errorInt = setInterval(() => {
                     if (errorCount > 0) {
                         document.querySelector('.errorDiv h3 span').innerHTML = errorCount;
